@@ -37,12 +37,12 @@ MA 02110-1301  USA
 
     <name>simpleaio</name>
     <description>This is a description</description>
-    <url>https://github.com/NaturalSelect/simpleaio</url>
+    <url>https://github.com/KnownSpace/simpleaio</url>
 
     <licenses>
         <license>
             <name>MIT</name>
-            <url>https://github.com/NaturalSelect/SimpleAio/blob/main/LICENSE</url>
+            <url>https://github.com/KnownSpace/SimpleAio/blob/main/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
